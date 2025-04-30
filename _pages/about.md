@@ -13,4 +13,3 @@ I am also finishing a project to correct the wavelength solution of the Habitabl
 
 Beyond astronomy, I am interested in climate science, and I intend to pursue climate change-related research after my expected graduation in spring/summer 2026.
 
-You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
